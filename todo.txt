@@ -1,0 +1,4 @@
+x (A) 2019-12-31 2-19-12-07  Create a logical order of web calls
+x (A) 2019-12-31 2-19-12-07  Make the api project on the AWS site
+x (A) 2019-12-31 2-19-12-07  Make the sql schema on AWS or give it to AARON to run
+ 
